@@ -1,0 +1,16 @@
+@media screen and (max-width: 400px) {
+    .footer-1{
+        flex-direction: column;
+        gap: 30px;
+        padding: 10px;
+        font-size: 40px;
+    }
+    .footer-3{
+        flex-direction: column;
+        gap: 30px;
+        width: 0;
+    }
+    .footer-2{
+        width: 1305px;
+    }
+}

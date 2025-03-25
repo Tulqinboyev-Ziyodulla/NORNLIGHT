@@ -1,0 +1,35 @@
+@media screen and (max-width: 400px) {
+    .blog-btn {
+        display: none;
+    }
+    .blog-1{
+        width: 910px;
+        margin: 0;
+        padding-left: 140px;
+    }
+    .blog-3{
+        width: 783px;
+        display: flex;
+        flex-direction: column;
+    }
+    .img-blog{
+        width: 858px;
+        height: 446px;
+    }
+    .blog-item{
+        width: 942px;
+    }
+    .blog-title{
+        font-size: 90px;
+    }
+    .blog-text{
+        font-size: 50px;
+        line-height: 50px;
+    }
+    .blog-content{
+        width: 600px;
+    }
+    .blog-content img{
+        width: 100px;
+    }
+}

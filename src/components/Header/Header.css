@@ -1,0 +1,48 @@
+@media screen and (max-width: 400px) {
+    .header-1 {
+        display: none;
+        width: 0;
+    }
+    .header-2 {
+        flex-direction: column;
+        display: flex;
+        flex: 1;
+    }
+    .header-btn{
+        display: none;
+    }
+    .header-logo{
+        width: 500px;
+        margin-left: 20px;
+    }
+    .header-img{
+        display: none;
+    }
+    .header-btn-2{
+        display: none;
+    }
+    .header-btn-1{
+        position: absolute;
+        top: 17px;
+        right: -430px;
+    }
+    .header-btn-1 span{
+        display: none;
+    }
+    .header-btn-3 span{
+        display: none;
+    }
+    .header-btn-3{
+        position: absolute;
+        top: 15px;
+        right: -490px;
+    }
+    .header-wrapper{
+        width: 300px;
+        margin: 0 auto;
+    }
+    .header-inp{
+        margin-left: 710px;
+        font-size: 50px;
+    }
+  }
